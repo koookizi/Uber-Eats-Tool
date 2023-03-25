@@ -16,7 +16,7 @@ Bespoke software for Uber Eats
 # Use existing account
 1. Copy cookies from "Home" page
 
-![image](https://user-images.githubusercontent.com/102149518/227727096-47401fee-a379-4b25-a6e9-09064544ef2d.png)
+![image](https://user-images.githubusercontent.com/102149518/227727375-8e4c89af-52fe-488e-ae15-96585fd84302.png)
 
 2. Go to "Cookies" page and paste into white box then press "Access Account"
 3. IMPORTANT: Let the bot do its thing for 2 seconds (will open Uber Eats menu then close). Afterwards, you can continue doing your order
